@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Exp2_S6_Marcos_Rosales" id="81B7916A-E361-B780-A42C-9DC7FE341D1F" version="3.5">
+<createdBy>M</createdBy>
+<createdTime>2024-09-16 02:01:39 UTC</createdTime>
+<ownerDesignName>Exp2_S6_Marcos_Rosales</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>81B7916A-E361-B780-A42C-9DC7FE341D1F</designId>
+</OSDM_Design>
